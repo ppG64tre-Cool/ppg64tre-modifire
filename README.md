@@ -1,6 +1,7 @@
 # Custom-Spawner-modifire
 My modifire of Vynixu custom entity spawner
 
-lua""
-prints("hello")
-""
+# What Changed
+- Just Make RayCast Entity Like In Game
+- Make Safe Spot Work
+- Also Nothing
